@@ -1,5 +1,5 @@
 ## HOME FRIEND
-**                  Más que un robot, un amigo del hogar**
+**Más que un robot, un amigo del hogar**
 
 <img src="https://github.com/im-homefriend/HomeFriend/blob/main/docs/WhatsApp%20Image%202020-10-18%20at%2015.21.43.jpeg" alt="drawing"  height ="200" width="200" />
 
