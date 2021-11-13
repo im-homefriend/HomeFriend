@@ -1,5 +1,6 @@
 ## HOME FRIEND
 **                  Más que un robot, un amigo del hogar**
+
 <img src="https://github.com/im-homefriend/HomeFriend/blob/main/docs/WhatsApp%20Image%202020-10-18%20at%2015.21.43.jpeg" alt="drawing"  height ="200" width="200" />
 
 ### DESCRIPCION
@@ -9,6 +10,9 @@ Quienes tienen mascotas en el hogar saben que pueden demandar mucha atención, d
 
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
+
+
+<img src="https://github.com/im-homefriend/HomeFriend/blob/main/docs/dashboard.png" alt="drawing"  height ="200" width="200" />
 ```markdown
 Syntax highlighted code block
 
