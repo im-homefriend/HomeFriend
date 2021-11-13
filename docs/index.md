@@ -27,6 +27,7 @@ Syntax highlighted code block
 [Link](url) and 
 ```
 ![Image](https://github.com/im-homefriend/HomeFriend/blob/main/docs/foto1.jpeg)
+<img src="https://github.com/im-homefriend/HomeFriend/blob/main/docs/foto1.jpeg" alt="drawing" width="200"/>
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
