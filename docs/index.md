@@ -5,6 +5,7 @@
 
 ### DESCRIPCION
 
+@TheUruguayo :+1: se pueden usar emojis  :shipit:
 
 Quienes tienen mascotas en el hogar saben que pueden demandar mucha atención, desde un perro muy inquieto o un gato cuyo entretenimiento no basta con una simple pelota de papel. HomeFriend nace con la idea de ser una solución para estas aborrecidas mascotas, pero rápidamente pudimos apreciar el potencial de esta idea a expandirse a otras áreas cómo la vigilancia del hogar e incluso la detección de un peligro inminente (por ej.: un incendio o la presencia de gases tóxicos). Así, la intención es crear una solución más genérica y robusta a los problemas inherentes que se generan al abandonar una vivienda.
 
@@ -14,22 +15,12 @@ Quienes tienen mascotas en el hogar saben que pueden demandar mucha atención, d
 
 <img src="https://github.com/im-homefriend/HomeFriend/blob/main/docs/dashboard.png" alt="drawing"  height ="200" width="200" />
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and 
+ejemplos de codigo o cosas que queres recuadrar en este formato
+dddd
 ```
+100. First list item
+     - First nested list item
+       - Second nested list item
 
 <img src="https://github.com/im-homefriend/HomeFriend/blob/main/docs/foto1.jpeg" alt="drawing"  height ="200" width="200" />
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
