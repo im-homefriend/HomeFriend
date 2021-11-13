@@ -1,6 +1,6 @@
 ## HOME FRIEND
 **                  Más que un robot, un amigo del hogar**
-
+<img src="https://github.com/im-homefriend/HomeFriend/blob/main/docs/WhatsApp%20Image%202020-10-18%20at%2015.21.43.jpeg" alt="drawing"  height ="200" width="200" />
 
 ### DESCRIPCION
 
@@ -27,7 +27,7 @@ Syntax highlighted code block
 [Link](url) and 
 ```
 
-<img src="https://github.com/im-homefriend/HomeFriend/blob/main/docs/foto1.jpeg" alt="drawing"  hight ="200" width="200" />
+<img src="https://github.com/im-homefriend/HomeFriend/blob/main/docs/foto1.jpeg" alt="drawing"  height ="200" width="200" />
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
