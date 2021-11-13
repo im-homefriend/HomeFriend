@@ -1,12 +1,15 @@
-## Welcome to GitHub Pages
+## HOME FRIEND
 
-You can use the [editor on GitHub](https://github.com/im-homefriend/HomeFriend/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+####NOmbres
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+### DESCRIPCION
+
+
+Quienes tienen mascotas en el hogar saben que pueden demandar mucha atención, desde un perro muy inquieto o un gato cuyo entretenimiento no basta con una simple pelota de papel. HomeFriend nace con la idea de ser una solución para estas aborrecidas mascotas, pero rápidamente pudimos apreciar el potencial de esta idea a expandirse a otras áreas cómo la vigilancia del hogar e incluso la detección de un peligro inminente (por ej.: un incendio o la presencia de gases tóxicos). Así, la intención es crear una solución más genérica y robusta a los problemas inherentes que se generan al abandonar una vivienda.
+
 
 ```markdown
 Syntax highlighted code block
