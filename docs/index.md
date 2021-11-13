@@ -7,6 +7,7 @@
 
 Quienes tienen mascotas en el hogar saben que pueden demandar mucha atención, desde un perro muy inquieto o un gato cuyo entretenimiento no basta con una simple pelota de papel. HomeFriend nace con la idea de ser una solución para estas aborrecidas mascotas, pero rápidamente pudimos apreciar el potencial de esta idea a expandirse a otras áreas cómo la vigilancia del hogar e incluso la detección de un peligro inminente (por ej.: un incendio o la presencia de gases tóxicos). Así, la intención es crear una solución más genérica y robusta a los problemas inherentes que se generan al abandonar una vivienda.
 
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 ```markdown
 Syntax highlighted code block
@@ -23,9 +24,9 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](https://github.com/im-homefriend/HomeFriend/blob/main/docs/foto1.jpeg)
+[Link](url) and 
 ```
-
+![Image](https://github.com/im-homefriend/HomeFriend/blob/main/docs/foto1.jpeg)
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
