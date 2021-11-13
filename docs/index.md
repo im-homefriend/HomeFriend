@@ -13,7 +13,7 @@ Quienes tienen mascotas en el hogar saben que pueden demandar mucha atención, d
 
 
 
-<img src="https://github.com/im-homefriend/HomeFriend/blob/main/docs/dashboard.png" alt="drawing"  height ="200" width="200" />
+<img src="https://github.com/im-homefriend/HomeFriend/blob/main/docs/dashboard.png" alt="drawing"  height ="200" width="500" />
 ```markdown
 ejemplos de codigo o cosas que queres recuadrar en este formato
 dddd
