@@ -1,8 +1,5 @@
 ## HOME FRIEND
-
-####NOmbres
-
-
+**                  Más que un robot, un amigo del hogar**
 
 
 ### DESCRIPCION
